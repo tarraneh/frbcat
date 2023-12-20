@@ -1,4 +1,4 @@
-# Open Supernova Catalog #
+# Open Fast Radio Bursts Catalog #
 
 [![Build Status](https://img.shields.io/travis/astrocatalogs/supernovae.svg)](https://travis-ci.org/astrocatalogs/supernovae)
 [![Coverage Status](https://coveralls.io/repos/github/astrocatalogs/supernovae/badge.svg?branch=master)](https://coveralls.io/github/astrocatalogs/supernovae?branch=master)
